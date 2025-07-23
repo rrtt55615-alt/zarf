@@ -30,7 +30,7 @@ The heartbeat animation indicates that the BGM is loading, please be patient and
 1. Register a [HuggingFace](https://huggingface.co) account;
 2. Duplicate a copy of [eLuvLetter](https://huggingface.co/spaces/Genius-Society/eLuvLetter) to your own `HuggingFace` account;
 3. Customize `./font/content.json` in your duplicated space online by the [eLuvLetter JSON Generator](https://huggingface.co/spaces/Genius-Society/eluvletter_configurator);
-4. Commit the modification to your duplicated space;
-5. Click `Embed this Space` and copy the direct URL of your duplicated space.
+4. Commit the changes to your duplicated space;
+5. Click `Embed this Space` and copy the `direct URL` of your duplicated space.
 
 **Good luck~💖**
