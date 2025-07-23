@@ -1,4 +1,4 @@
-# Tutorial of eLuvLetter
+# eLuvLetter tutorial
 [![license](https://img.shields.io/github/license/Genius-Society/eLuvLetter.svg)](https://github.com/Genius-Society/eLuvLetter/blob/main/LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/154babf2-94f7-4abf-a333-6f3e150dcf09/deploy-status)](https://eluvletter.netlify.app)
 [![hf](https://img.shields.io/badge/huggingface-eluvletter-ffd21e.svg)](https://huggingface.co/collections/Genius-Society/eluvletter-687f8f68ed3333e5e2376832)
@@ -9,6 +9,13 @@
 The heartbeat animation indicates that the BGM is loading, please be patient and wait util the envelope appears.
 
 [![](https://i2.hdslb.com/bfs/archive/15697cf5676c81270f7ba1c536d9834b8313a5a2.png)](https://eluvletter.netlify.app)
+
+## HuggingFace solution
+1. Register a [HuggingFace](https://huggingface.co) account;
+2. Duplicate a copy of [eLuvLetter](https://huggingface.co/spaces/Genius-Society/eLuvLetter) to your own `HuggingFace` account;
+3. Customize `./font/content.json` in your duplicated space online by the [eLuvLetter JSON Generator](https://huggingface.co/spaces/Genius-Society/eluvletter_configurator);
+4. Commit the changes to your duplicated space;
+5. Click `Embed this Space` and copy the `direct URL` of your duplicated space.
 
 ## GitHub solution
 [HuggingFace solution](#huggingface-solution) is recommended!
@@ -25,12 +32,5 @@ The heartbeat animation indicates that the BGM is loading, please be patient and
 4. Click `Deploy site` to jump into `Site overview` page automatically, click `Site settings`;
 5. Click `Change site name` under `Site information`, modify second-level domain name not conflict to others, and click `Save`;
 6. After the deployment, we can visit `https://%PROJECT_NAME%.netlify.app` to broswe your page, where `%PROJECT_NAME%` is the second-level domain name customized by you.
-
-## HuggingFace solution
-1. Register a [HuggingFace](https://huggingface.co) account;
-2. Duplicate a copy of [eLuvLetter](https://huggingface.co/spaces/Genius-Society/eLuvLetter) to your own `HuggingFace` account;
-3. Customize `./font/content.json` in your duplicated space online by the [eLuvLetter JSON Generator](https://huggingface.co/spaces/Genius-Society/eluvletter_configurator);
-4. Commit the changes to your duplicated space;
-5. Click `Embed this Space` and copy the `direct URL` of your duplicated space.
 
 **Good luck~💖**
